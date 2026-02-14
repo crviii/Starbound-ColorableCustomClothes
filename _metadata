@@ -1,8 +1,11 @@
 {
   "author" : "Degranon / Heartleigh",
-  "description" : "Safely recolor your custom clothes!",
+  "description" : "A small quality of life mod that makes customly generated clothing (made using Silverfeelin's Outfit Generator or Kae's airfryer) dyeable by simply using a dye on them. It should be compatible with dyes made using Green's Dye Suite as well.\n\nOriginal CCC was made by Degranon, available on GitHub: https://github.com/KrashV/Starbound-ColorableCustomClothes\nI just updated it to work with some of oSB's features, like flipDirectives.",
   "friendlyName" : "Colorable Custom Clothes",
   "includes" : ["XRC_INFAUGMENTS"],
+  "link" : "steam://url/CommunityFilePage/3666411421",
   "name" : "colorablecustomclothes",
+  "steamContentId" : "3666411421",
+  "tags" : "Miscellaneous|Armor and Clothes",
   "version" : "v.1.2.0"
 }
